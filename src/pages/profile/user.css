@@ -1,0 +1,92 @@
+.profileWrapper{
+    flex: 2;
+    width: 40%;
+    height: 150px;
+    margin: 10px 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.displayPicture img{
+    border-radius: 50%;
+    border: 1px solid lightslategray;
+    width: 150px;
+    height: 150px;
+    margin: 0 20px;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 220px;
+    margin-top: 20px;
+}
+.infoBox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.infoBox button{
+    margin: 0 20px;
+    border: 1px solid lightslategray;
+}
+.postInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+}
+.postInfo div{
+    margin-right: 20px;
+    font-size: 15px;
+}
+.userInfo{
+    margin-top: 20px;
+}
+.userInfo a{
+    text-decoration: none;
+    color: rgb(0, 55, 107);
+}
+
+.highlights{
+    display: flex;
+    flex-direction: row;  
+    margin-top: 20px;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.highlight{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.highlight img{
+    border: 1px solid lightslategray;
+    border-radius: 50%; 
+    margin: 5px;
+    height: 80px;
+    width: 80px;
+}
+.grid{
+    width: 1000px;    
+    margin-top: 20px;
+}
+
+.grid img{
+    border: 1px solid lightslategray;
+    margin: 5px;
+    height: 350px;
+    width: 300px;
+    flex-wrap: wrap;
+    contain: content;
+}
