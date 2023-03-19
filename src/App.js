@@ -7,7 +7,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route exact path="/socialgram" element={<Home />} />
+          <Route exact path="/" element={<Home />} />
           <Route exact path="/profile" element={<Profile />} />
         </Routes>
       </Router>
