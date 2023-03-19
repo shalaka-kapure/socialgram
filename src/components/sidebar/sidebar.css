@@ -1,0 +1,134 @@
+.sidebar{
+    background-color: white;
+    width: 20%;
+    height: 100vh;
+    border-right: 1px solid black;
+    flex: 0.2;
+}
+
+.sidebarTop{
+    margin: 0px;
+    padding: 10px;
+}
+
+.title{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-size: 30px;   
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.sidebarCentre{
+    padding: 10px;
+}
+
+.sidebarCentre div{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    padding: 8px;
+}
+
+.profile{
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    margin-left: 4px;
+}
+
+.link{    
+    text-decoration: none;
+    color: black;
+}
+
+.profile img{
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+.menu-bars{
+    margin-left: 2rem;
+    font-size: 2rem;
+    background: none;
+    color: black;    
+}
+.menu-bars span{
+    text-decoration: none;     
+}
+.nav-menu{
+    background-color: white;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 356px;
+    left: -100%;
+    transition: 850ms;  
+    z-index: 2;
+}
+
+.nav-menu.active {
+    left: 0;
+    transition: 350ms;
+    z-index: 3;
+}
+
+.nav-text{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+}
+
+.nav-text a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0px 16px;
+    border-radius: 4px;    
+}
+
+.nav-text a:hover{
+    background-color: black;
+    color: white;
+}
+
+.nav-menu-items{
+    width: 100%;
+}
+
+.navbar-toggle{
+    background-color:white;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-menu-items li{
+    text-decoration: none;
+    list-style: none;
+    padding: 16px 0px 8px 16px;
+    height: 30px;
+}
+.nav-menu-items li:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+span{
+    margin-left: 16px;
+}
+
