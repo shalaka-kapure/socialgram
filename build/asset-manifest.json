@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/socialgram/static/css/main.3fe19a91.css",
+    "main.js": "/socialgram/static/js/main.a125ab20.js",
+    "static/js/787.63548ea3.chunk.js": "/socialgram/static/js/787.63548ea3.chunk.js",
+    "index.html": "/socialgram/index.html",
+    "main.3fe19a91.css.map": "/socialgram/static/css/main.3fe19a91.css.map",
+    "main.a125ab20.js.map": "/socialgram/static/js/main.a125ab20.js.map",
+    "787.63548ea3.chunk.js.map": "/socialgram/static/js/787.63548ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe19a91.css",
+    "static/js/main.a125ab20.js"
+  ]
+}
