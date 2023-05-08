@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/socialgram/static/css/main.3fe19a91.css",
-    "main.js": "/github.io/socialgram/static/js/main.64c5bcc4.js",
-    "static/js/787.63548ea3.chunk.js": "/github.io/socialgram/static/js/787.63548ea3.chunk.js",
-    "index.html": "/github.io/socialgram/index.html",
-    "main.3fe19a91.css.map": "/github.io/socialgram/static/css/main.3fe19a91.css.map",
-    "main.64c5bcc4.js.map": "/github.io/socialgram/static/js/main.64c5bcc4.js.map",
-    "787.63548ea3.chunk.js.map": "/github.io/socialgram/static/js/787.63548ea3.chunk.js.map"
+    "main.css": "/socialgram/static/css/main.3fe19a91.css",
+    "main.js": "/socialgram/static/js/main.a125ab20.js",
+    "static/js/787.63548ea3.chunk.js": "/socialgram/static/js/787.63548ea3.chunk.js",
+    "index.html": "/socialgram/index.html",
+    "main.3fe19a91.css.map": "/socialgram/static/css/main.3fe19a91.css.map",
+    "main.a125ab20.js.map": "/socialgram/static/js/main.a125ab20.js.map",
+    "787.63548ea3.chunk.js.map": "/socialgram/static/js/787.63548ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe19a91.css",
-    "static/js/main.64c5bcc4.js"
+    "static/js/main.a125ab20.js"
   ]
 }
